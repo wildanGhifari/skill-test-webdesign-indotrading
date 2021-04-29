@@ -56,6 +56,7 @@ small, .text_small {font-size: 0.75rem;}
 }
 .navbar .nav-link {
     margin-right: 24px;
+    text-transform: uppercase;
 }
 /* End of Navbar */
 
@@ -140,6 +141,39 @@ small, .text_small {font-size: 0.75rem;}
 }
 /* End Fickity */
 /* End of Layanan Jasa */
+
+/* Promo */
+#Promo {
+    min-height: 240px;
+    background-color: #2D9CDB;
+    border-radius: 8px;
+}
+/* End of Promo */
+
+/* Artikel */
+#Artikel {
+    margin-top: 36px;
+}
+
+#Artikel .card:hover {
+    cursor: pointer;
+    box-shadow: 0px 46px 164px rgba(0, 0, 0, 0.07), 0px 19.2177px 68.5153px rgba(0, 0, 0, 0.0503198), 0px 10.2747px 36.6315px rgba(0, 0, 0, 0.0417275), 0px 5.75991px 20.5353px rgba(0, 0, 0, 0.035), 0px 3.05905px 10.9062px rgba(0, 0, 0, 0.0282725), 0px 1.27294px 4.5383px rgba(0, 0, 0, 0.0196802);
+}
+
+#Artikel .tanggal {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #2D9CDB;
+}
+
+#Artikel .title {
+    font-size: 21px;
+}
+/* End of Artikel */
+
+#copyright {
+    background-color: #333;
+}
 
 
 /* DESKTOP SIZE */
