@@ -94,21 +94,21 @@ small, .text_small {font-size: 0.75rem;}
 
 /* Banner 1 */
 .banner1 {
-    background-image: url("assets/img/Banner1.png");
+    background-image: url("../img/Banner1.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
 }
 .banner2 {
-    background-image: url("assets/img/Banner2.png");
+    background-image: url("../img/Banner2.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
 }
 .banner3 {
-    background-image: url("assets/img/Banner3.png");
+    background-image: url("../img/Banner3.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
